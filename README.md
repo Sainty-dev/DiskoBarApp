@@ -5,11 +5,10 @@ DiskoBarApp (slightly PocketBar) is great app and intresting to study with.In de
 
 The App allow user to do the following:
 
-    List cocktails By Name, Category, Glass Type, Ingredient or Random.
-    Given a certain Cocktail, visualize: Picture, Description, Recipe (Ingredients & Instructions) and Glass Type.
-    Given a certain Ingredient, visualize: Image, Name & Description.
-    Favorite and Share Cocktails for easy access.
+1) List cocktails By Name, Category, Glass Type, Ingredient or Random.
+2) Given a certain Cocktail, visualize: Picture, Description, Recipe (Ingredients & Instructions) and Glass Type.
+3) Given a certain Ingredient, visualize: Image, Name & Description.
+4) Favorite and Share Cocktails for easy access.
 
-App Mockup
-
+# App Mockup 
 App MOCKUP to be uploaded very soon.
